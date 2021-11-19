@@ -1,3 +1,3 @@
-module github.com/gangsd92/test
+module github.com/gangsd92/greetings
 
 go 1.16
